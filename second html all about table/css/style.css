@@ -1,0 +1,50 @@
+
+		body{
+			background-color: #5eaaa8;
+			font-style: italic;
+			font-family: serif;
+			
+		}
+		hr{
+			color: white;
+			
+			width: 20%;
+			border-style: none;
+			border-top: dotted;
+			border-width: 5px;
+			
+
+
+
+		}
+		h1{
+			color:pink;
+			
+					
+		}
+		p{
+			color: green;		}
+		input{
+			background-color: black;
+		}
+		
+		.sarat{
+			color:blue;
+		}
+		.circular{
+  			border-radius: 10px 100px / 120px;
+		}
+		.sarat:hover{
+			color: ;
+		}
+		
+		img:hover{
+			color: gold;
+		}
+		h1:hover{
+			background-color: gold;
+		}
+		a:hover{
+			background-color: red;
+		}
+	
